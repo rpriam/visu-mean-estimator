@@ -1,7 +1,10 @@
 # visu-mean-estimator
 
+CODE
 
-CODE For the communication
+getdata_art.R
+vizu_lib_ratio
+vizu_bivariate_ratio_amsel
 
 DATA
 
@@ -11,3 +14,4 @@ AUTHOR
 
 Rodolphe Priam
 rpriam@gmail.com
+
